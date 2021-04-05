@@ -1,6 +1,6 @@
 # netlify/cli#2062
 
-This repository reproduces an issue in netlify/cli#2062
+This repository reproduces an issue in [netlify/cli#2062](https://github.com/netlify/cli/issues/2062)
 
 To try locally, first run `npm install`
 
